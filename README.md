@@ -1,17 +1,6 @@
 ![capa github](https://github.com/lucas-ferreira-lf/lucas-ferreira-lf/blob/main/img/capaGithub.png)  
 
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFerreiraLF&hide=html&layout=compact&theme=cobalt" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasFerreiraLF&theme=cobalt"/></td>
-    </tr>   
-  </table>
-</center>  
-
-
-
 ### hello adventure! tudo bem? :) 
 
 ---
