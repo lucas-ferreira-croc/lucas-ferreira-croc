@@ -9,6 +9,15 @@ Meu nome é Lucas Ferreira, sou estudante de Ciência da Computação pela Facul
 
 Meus Hobbies são jogar videogame, RPG e conhecer novos assuntos usando o youtube.
 
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-castro&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mateus-castro&theme=dracula"/></td>
+    </tr>   
+  </table>
+</center> 
+
 ---
 
 Meu sonho é me tornar um expoente na indústria dos jogos, pois eu acredito que eles são a fusão entre arte e tecnologia, duas coisas que eu amo.
