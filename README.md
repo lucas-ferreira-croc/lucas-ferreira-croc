@@ -12,8 +12,8 @@ Meus Hobbies são jogar videogame, RPG e conhecer novos assuntos usando o youtub
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-castro&hide=html&layout=compact&theme=dracula" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mateus-castro&theme=dracula"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFerreiraLF&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasFerreiraLF&theme=dracula"/></td>
     </tr>   
   </table>
 </center> 
