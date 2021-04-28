@@ -37,4 +37,3 @@ E é por aqui que você vai me achar na internet:
 
 ---  
 
-![](https://komarev.com/ghpvc/?username=lucasFerreiraLF&color=blue&style=flat)
