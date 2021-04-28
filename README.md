@@ -13,7 +13,7 @@ Meus Hobbies são jogar videogame, RPG e conhecer novos assuntos usando o youtub
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFerreiraLF&hide=html&layout=compact&theme=dracula" /></td>
-        <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasFerreiraLF&theme=dracula"/></td>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasFerreiraLF&theme=dracula"/></td>
     </tr>   
   </table>
 </center> 
