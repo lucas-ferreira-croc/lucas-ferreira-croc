@@ -27,13 +27,11 @@ Estou começando meu Estúdio como projeto pessoal, você pode ver o logo dele a
 
 E é por aqui que você vai me achar na internet: 
 
-<a href="https://twitter.com/jovemdesmotiva"><img src="https://github.com/lucas-ferreira-croc/lucas-ferreira-croc/blob/main/img/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/jovemdesmotiva)   
+<a href="https://www.instagram.com/croc_studios/"><img src="https://github.com/lucas-ferreira-croc/lucas-ferreira-croc/blob/main/img/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/croc_studios/)  
 
-<a href="https://www.instagram.com/jovemdesmotivado/"><img src="https://github.com/lucas-ferreira-croc/lucas-ferreira-croc/blob/main/img/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/jovemdesmotivado/)  
+<a href="https://https://www.linkedin.com/in/lucas-ferreira-lf/"><img src="https://github.com/lucas-ferreira-croc/lucas-ferreira-croc/blob/main/img/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/lucas-ferreira-lf/)  
 
-<a href="https://https://www.linkedin.com/in/lucas-ferreira-3a0a9717b/"><img src="https://github.com/lucas-ferreira-croc/lucas-ferreira-croc/blob/main/img/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/lucas-ferreira-3a0a9717b/)  
-
-<a href="mailto:lucas.ferreira057@bandtec.com.br"><img src="https://github.com/lucas-ferreira-croc/lucas-ferreira-croc/blob/main/img/email.png" width="16"></img></a> [Email](mailto:lucas.ferreira057@bandtec.com.br)  
+<a href="mailto:lucas.business.enq@gmail.com"><img src="https://github.com/lucas-ferreira-croc/lucas-ferreira-croc/blob/main/img/email.png" width="16"></img></a> [Email](mailto:lucas.business.enq@gmail.com)  
 
 ---  
 
